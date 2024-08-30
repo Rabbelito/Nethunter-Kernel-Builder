@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "kernel_xiaomi_sweet"
-      "repo": "https://github.com/ViP3R-KERNELs/kernel_xiaomi_sweet.git",
+      "repo": "https://github.com/Rabbelito/kernel_xiaomi_sweet.git",
       "branch": "13",
       "device": "sweet"
     },
