@@ -1,9 +1,9 @@
-[   {
+[  {
     "kernelSource": {
       "name": "rabbes",
       "repo": "https://github.com/Rabbelito/kernel_xiaomi_sweet.git",
       "branch": "new",
-      "device": "sweet"
+      "device": "sweet2"
     },
     "withKernelSU": true,
     "toolchains": [
