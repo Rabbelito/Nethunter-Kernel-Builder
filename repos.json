@@ -1,6 +1,6 @@
 [  {
     "kernelSource": {
-      "name": "Rabbes Black Kernel",
+      "name": "RabbesBlackKernel",
       "repo": "https://github.com/Rabbelito/BlackKernel.git",
       "branch": "sleepy-inline",
       "device": "sweet"
