@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
-      "name": "RabbesBlack",
-      "repo": "https://github.com/Rabbelito/BlackKernel.git",
-      "branch": "sleepy-inline",
-      "device": "sweet"
+      "name": "RabbesS20FE",
+      "repo": "https://github.com/Rabbelito/NetHunter_samsung_r8q.git",
+      "branch": "NetHunter",
+      "device": "r8q"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
