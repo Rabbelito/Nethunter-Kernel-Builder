@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
-      "name": "Rabbes",
-      "repo": "https://github.com/Rabbelito/kernel_xiaomi_sweet.git",
-      "branch": "new",
+      "name": "RabbesBlack",
+      "repo": "https://github.com/Rabbelito/BlackKernel.git",
+      "branch": "sleepy-inline",
       "device": "sweet"
     },
     "withKernelSU": false,
