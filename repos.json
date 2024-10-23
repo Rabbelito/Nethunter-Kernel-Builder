@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
-      "name": "RabbesS20FE",
-      "repo": "https://github.com/Rabbelito/NetHunter_samsung_r8q.git",
-      "branch": "NetHunter",
-      "device": "r8q"
+      "name": "Oneplus 8T",
+      "repo": "https://github.com/Rabbelito/kernel_oneplus_sm8250.git",
+      "branch": "udc",
+      "device": "kebab"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
@@ -14,7 +14,7 @@
       },
       {
       "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "branch": "12",
         "name": "clang"
       }
     ],
