@@ -3,7 +3,7 @@
       "name": "Oneplus8T",
       "repo": "https://github.com/Rabbelito/kernel_oneplus_sm8250.git",
       "branch": "udc",
-      "device": "kona"
+      "device": "viper"
     },
     "withKernelSU": false,
     "toolchains": [
@@ -14,7 +14,7 @@
       },
       {
       "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "15",
+        "branch": "10",
         "name": "clang"
       }
     ],
